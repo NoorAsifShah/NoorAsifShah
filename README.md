@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NoorAsifShah
 - 👀 I’m interested in Web development 
 - 🌱 I’m currently learning Java
-- 📫 How to reach me @sshadaab.noor@gmail.com
+- 📫 How to reach me sshadaab.noor@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
